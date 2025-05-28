@@ -17,9 +17,6 @@ The game validates your inputs and keeps track of your score.
 
 ---
 
-## How to Run
+## Screenshot
 
-1. Make sure you have Java JDK 8 or later installed.
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/sudoku-java-swing.git
+![Screenshot 2025-05-28 122138](https://github.com/user-attachments/assets/524b1520-74b5-4a5e-9556-db745cc772dd)
